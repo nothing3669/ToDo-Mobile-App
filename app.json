@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/logo.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.rgautam320.ToDoApp"
     },
     "web": {
       "favicon": "./assets/logo.png"
